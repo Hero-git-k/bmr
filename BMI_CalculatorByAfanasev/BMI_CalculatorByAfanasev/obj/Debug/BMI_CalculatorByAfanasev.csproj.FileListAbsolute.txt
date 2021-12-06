@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\bin\Debug\BMI_CalculatorByAfanasev.exe.config
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\bin\Debug\BMI_CalculatorByAfanasev.exe
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\bin\Debug\BMI_CalculatorByAfanasev.pdb
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.bmi.resources
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.Properties.Resources.resources
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.exe
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.pdb
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.Main.resources
+C:\Users\student\source\repos\BMI_CalculatorByAfanasev\BMI_CalculatorByAfanasev\obj\Debug\BMI_CalculatorByAfanasev.bmr.resources
